@@ -1,10 +1,6 @@
 # Maize-Leaf-Data-for-Cross-Variety-Validation-of-MMBRDF-Correction-Network
 This space contains the data associated with published research with the same title as this repository. It contains maize leaf samples' MMBRDF model parameter data and the associated modelling, simulation, and analysis presented within the paper. 
 
-  Date: 2025-05-15 ​
-  Category: Curated Data ​
-  Created by: Danny Krafft
-
 Introduction:
   Presenting curated maize MMBRDF model parameter data for three sampled varieties (B73, MO17, and Pioneer Hybrid). ​ A total of 25 samples were collected for each variety with the top five leaves of each of five plant samples are presented for all three varieties. ​ (i.e. B73 Plant 1-5 Leaf 1-5). ​ All samples were grown outdoors at Central Crops Research Station (CCRS) in Clayton, NC in the summer of 2024 ​
 Publication in progress: "Cross-Variety Validation of a Polarimetric Glare Correction Algorithm for Maize" ​
